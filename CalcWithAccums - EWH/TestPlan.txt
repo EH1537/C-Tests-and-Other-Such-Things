@@ -1,0 +1,8 @@
+Like the car assignment, this one was 75% planning, then execution.
+I had a hand-written sheet with my naming scheme and all the calculations out
+I wrote out the code for the calculations first and made sure they lined up with some hand work I did
+I did the mulch first, and ensured that worked by comparing it to hand work, then I did the truck bed stuff
+After that it was a matter of coding and testing the color for the box.
+Even though it wasn’t part of the assignment, I felt it was appropriate to do the validations, which took some time. 
+Since I couldn’t get out of debugging mode to save my life for at least 30 minutes. 
+Testing the validation was as easy as leaving the appropriate box blank and making sure the correct error came up.
