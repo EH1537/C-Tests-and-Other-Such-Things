@@ -9,8 +9,7 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 
 namespace SalesTaxCalc
-    //Evan Hilton
-    //556818
+    //EWH
     //7.22.19
 
 
