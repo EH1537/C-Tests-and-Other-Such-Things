@@ -1,0 +1,11 @@
+I actually did this after the car calculation homework. So this went by a lot faster
+I assigned the tax value as .0675, due to the tax hike occuring on april 1st.
+After writing up the code, including a Clear button, testing was like that of the car calculator. Putting in numbers and also doing hand calculations to ensure I did it properly
+I had to figure out how to make the code Round out to 2 digits, since our currency only cares about 2 significant figures.
+
+
+2nd edition:
+Same as before, but testing needs to be done with the accumulations in mind, making sure those boxes 
+actually do add/operate properly and out output properly by comparing hand calculations to the program.
+I also changed the code to use the .string(c) code rather than inputs the $ sign and my Round command
+Adding a clear all button and testing it to ensure it cleared teh accumulations was also done.

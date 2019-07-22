@@ -1,0 +1,4 @@
+I actually did this after the car calculation homework. So this went by a lot faster
+I assigned the tax value as .0675, due to the tax hike occuring on april 1st.
+After writing up the code, including a Clear button, testing was like that of the car calculator. Putting in numbers and also doing hand calculations to ensure I did it properly
+I had to figure out how to make the code Round out to 2 digits, since our currency only cares about 2 significant figures.
